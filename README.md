@@ -16,6 +16,6 @@ Technical implementation logs detailing the automated deployment, status validat
 I certify that this submission reflects my own technical execution. I have completed all environment tasks individually and documented all metrics in accordance with the course guidelines.
 
 ## Required Submission Details Block
-* **Repository Link:** https://github.com
+* **Repository Link:** https://github.com/manzi-lin/oracle_pdb_ass_II_20251SEN193_Lin.git
 * **PDB Name Created:** li_pdb_20251SEN193
 * **Issues Encountered:** No
